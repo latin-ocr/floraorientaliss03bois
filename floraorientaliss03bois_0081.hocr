@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./floraorientaliss03bois_0081.png"; bbox 0 0 1873 2559; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 755 294 1147 360">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 755 294 1147 360">
+     <span class='ocr_line' id='line_1_1' title="bbox 755 294 1147 360; baseline 0.018 -17"><span class='ocrx_word' id='word_1_1' title='bbox 755 294 1063 360; x_wconf 72' lang='lat' dir='ltr'><strong>Bolssmss,</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1096 301 1147 350; x_wconf 74' lang='lat' dir='ltr'><strong>E.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 335 1009 1477 1128">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 335 1009 1477 1128">
+     <span class='ocr_line' id='line_1_2' title="bbox 335 1009 1477 1128; baseline 0.009 -10"><span class='ocrx_word' id='word_1_3' title='bbox 335 1009 698 1122; x_wconf 73' lang='lat' dir='ltr'><strong>FLORA</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 804 1012 1477 1128; x_wconf 81' lang='lat' dir='ltr'>ORIENTALIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 450 2088 1431 2212">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 450 2088 1431 2212">
+     <span class='ocr_line' id='line_1_3' title="bbox 450 2088 1431 2212; baseline 0.001 -14"><span class='ocrx_word' id='word_1_5' title='bbox 450 2154 809 2210; x_wconf 73' lang='lat' dir='ltr'>Calycissorae</span> <span class='ocrx_word' id='word_1_6' title='bbox 821 2088 1237 2212; x_wconf 42' lang='lat' dir='ltr'>,Vgssgglbetalae</span> <span class='ocrx_word' id='word_1_7' title='bbox 1264 2157 1345 2211; x_wconf 91' lang='grc'><strong>(18</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1355 2157 1431 2210; x_wconf 85' lang='grc'><strong>75)</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 214 2252 1651 2306">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 214 2252 1651 2306">
+     <span class='ocr_line' id='line_1_4' title="bbox 214 2252 1651 2306; baseline 0.001 -11"><span class='ocrx_word' id='word_1_9' title='bbox 214 2252 624 2306; x_wconf 71' lang='lat' dir='ltr'>Reimpression</span> <span class='ocrx_word' id='word_1_10' title='bbox 647 2253 984 2297; x_wconf 70' lang='lat' dir='ltr'>fac-similee</span> <span class='ocrx_word' id='word_1_11' title='bbox 1010 2255 1293 2301; x_wconf 89' lang='lat' dir='ltr'>A.ASHER</span> <span class='ocrx_word' id='word_1_12' title='bbox 1321 2255 1358 2298; x_wconf 82' lang='lat'>&amp;</span> <span class='ocrx_word' id='word_1_13' title='bbox 1385 2255 1486 2300; x_wconf 89' lang='lat' dir='ltr'><strong>CO.</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1529 2255 1651 2297; x_wconf 88' lang='grc'>1963</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
